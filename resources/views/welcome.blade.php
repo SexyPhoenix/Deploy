@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    IP：{{ $server_ip }}
+                    服务器IP：{{ $server_ip }}
                 </div>
 
                 <div class="links">
